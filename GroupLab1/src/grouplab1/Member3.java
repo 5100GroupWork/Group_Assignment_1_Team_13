@@ -6,16 +6,13 @@ package grouplab1;
 
 /**
  *
- * @author 59386
+ * @author zhiyusun
  */
-public class GroupLab1 {
+public class Member3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-         Member1.main(args);
+        System.out.println("Hello from Member 3!");
     }
     
 }
